@@ -1,0 +1,3 @@
+aiogram==3.0.0b7
+aiofiles==23.1.0
+aiosqlite==0.22.1
