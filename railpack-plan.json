@@ -1,0 +1,9 @@
+{
+  "python": "3.12",
+  "install": [
+    "pip install -r requirements.txt"
+  ],
+  "deploy": [
+    "python bot.py"
+  ]
+}
